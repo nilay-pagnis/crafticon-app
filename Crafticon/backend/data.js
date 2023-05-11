@@ -13,7 +13,7 @@ const data = {
         "Pashmina is a very fine type of wool and Kashmir is where its textiles are first woven.",
     },
     {
-      name: "Phulkari (Punjab and Haryana)",
+      name: "Phulkari (Punjab & Haryana)",
       slug: "Phulkari",
       category: "embroidery",
       image:
@@ -25,7 +25,7 @@ const data = {
         "Phulkari is a kind of embroidery that is made of complex designs created with horizontal and vertical stitches.",
     },
     {
-      name: "Bamboo Handicrafts (East India)",
+      name: "Bamboo Handicrafts (East-IND)",
       slug: "Bamboo-Handicrafts",
       category: "eco-friendly",
       image:
